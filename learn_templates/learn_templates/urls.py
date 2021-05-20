@@ -21,5 +21,3 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^learn_app/',include('learn_app.urls'))
 ]
-
---test
